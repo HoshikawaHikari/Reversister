@@ -2,10 +2,16 @@
 [English](https://translate.google.com/translate?sl=ja&tl=en&u=https://github.com/HoshikawaHikari/Reversister) (by Google Translate)
 
 リバーシ(オセロ)のライブラリ。  
-C#製。.Net Core 3  
+C#製。.Net Core 3.1  
 Unityでも使用可能。  
 
 利用可能なクラス、関数は [Documents](https://github.com/HoshikawaHikari/Reversister#Document) をご覧ください。
+
+#### 開発環境
+Visual Studio 2019 Version 16.75  
+.Net Core 3.1  
+
+Unity 2019.4.10f1
 
 ## Installation
 [Release](https://github.com/HoshikawaHikari/Reversister/releases) ページからDLLとUnityPackageをダウンロード出来ます。  
@@ -24,7 +30,7 @@ DLLを参照に追加してご利用下さい。
 ## License
 [MIT](https://github.com/HoshikawaHikari/Reversister/blob/main/LICENSE)
 
-## Document
+## Documents
 
 #### \[namespace] HoshihaLab.Reversister
 
