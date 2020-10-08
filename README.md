@@ -12,9 +12,8 @@ Unityでも使用可能。
 もしくはソースコードをご利用下さい。
 
 ### Unity
-向けにUnityPackageを用意しています。  
-ImportAssetしてご利用下さい。  
-使い方のサンプルも含まれています。
+UnityPackageを用意しています。ImportAssetしてご利用下さい。  
+サンプルシーンも含まれています。
 
 ### C# Project
 DLLを参照に追加してご利用下さい。  
@@ -23,7 +22,7 @@ DLLを参照に追加してご利用下さい。
 その他の環境の場合はソースコードをご利用下さい。
 
 ## License
-MIT
+[MIT](https://github.com/HoshikawaHikari/Reversister/blob/main/LICENSE)
 
 ### Document
 
