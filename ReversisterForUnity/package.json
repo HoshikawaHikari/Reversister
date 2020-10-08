@@ -1,0 +1,8 @@
+{
+  "name": "com.hoshihalab.reversister",
+  "displayName": "HoshihaLab Reversister",
+  "version": "0.0.1",
+  "unity": "2019.1",
+  "description": "HoshihaLab Reversister for Unity",
+  "type": "library"
+}
