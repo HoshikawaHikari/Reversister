@@ -24,7 +24,7 @@ DLLを参照に追加してご利用下さい。
 ## License
 [MIT](https://github.com/HoshikawaHikari/Reversister/blob/main/LICENSE)
 
-### Document
+## Document
 
 #### \[namespace] HoshihaLab.Reversister
 
