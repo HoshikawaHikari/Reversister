@@ -28,7 +28,8 @@ DLLを参照に追加してご利用下さい。
 その他の環境の場合はソースコードをご利用下さい。
 
 ## License
-[MIT](https://github.com/HoshikawaHikari/Reversister/blob/main/LICENSE)
+[MIT](https://github.com/HoshikawaHikari/Reversister/blob/main/LICENSE)  
+(個人利用、商用利用問わずご自由にお使い頂けますが、必ず著作権表示を行ってください)
 
 ## Documents
 
